@@ -1,7 +1,7 @@
 // Wyszukiwanie interpolacyjne
 // Data:   8.05.2008
 // (C)2012 mgr Jerzy Wa³aszek
-//---------------------------
+//Sasza
 
 #include <iostream>
 #include <iomanip>
@@ -56,4 +56,4 @@ int main()
   }
   cout << endl << endl;
   return 0;
-} 
+}
