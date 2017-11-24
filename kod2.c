@@ -1,5 +1,5 @@
 // Wyszukiwanie binarne
-// Data:   7.05.2008
+// Data:   jaka?
 // (C)2012 mgr Jerzy Wa³aszek
 //---------------------------
 
@@ -54,4 +54,4 @@ int main()
   }
   cout << endl << endl;
   return 0;
-} 
+}
