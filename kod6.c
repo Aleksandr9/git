@@ -1,7 +1,7 @@
 // Wyszukiwanie k-tego najwiêkszego elementu
 // Data:   9.05.2008
 // (C)2012 mgr Jerzy Wa³aszek
-//------------------------------------------
+//tu jest 6 komit
 
 #include <iostream>
 #include <iomanip>
@@ -54,4 +54,4 @@ int main()
 
   cout << k << " : " << Z[N - k] << endl << endl;
   return 0;
-} 
+}
