@@ -1,7 +1,7 @@
 // Struktura zbiorów roz³¹cznych
 // Data: 25.03.2014
 // (C)2014 mgr Jerzy Wa³aszek
-//---------------------------
+//--------kolejny komit (9)
 
 #include <iostream>
 #include <cstdlib>
@@ -67,4 +67,4 @@ int main()
 
   return 0;
 
-} 
+}
