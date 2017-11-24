@@ -1,7 +1,7 @@
 // Podzia³ zbioru na dwie partycje
 // Data:   17.05.2008
 // (C)2012 mgr Jerzy Wa³aszek
-//--------------------------------
+//kommit 7
 
 #include <iostream>
 #include <iomanip>
@@ -60,4 +60,4 @@ int main()
   cout << endl << endl;
 
   return 0;
-} 
+}
