@@ -1,5 +1,5 @@
 // Wyszukiwanie lidera
-// Data:   4.11.2008
+// Data:   4.11.2017
 // (C)2012 mgr Jerzy Wa³aszek
 //---------------------------
 
