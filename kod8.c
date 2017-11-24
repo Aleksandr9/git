@@ -1,7 +1,7 @@
 // Wyszukiwanie mediany
 // Data:   21.05.2008
 // (C)2012 mgr Jerzy Wa³aszek
-//---------------------------
+//tu kommit 8
 
 #include <iostream>
 #include <iomanip>
@@ -51,7 +51,7 @@ int main()
   int Z[N + 1],i,ip,ik,k,pv;
 
   srand((unsigned)time(NULL));
-  
+
   // Przygotowujemy tablicê Z[]
 
   for(i = 0; i < N; i++) Z[i] = rand() %  1000;
@@ -78,4 +78,4 @@ int main()
 
   cout << Z[N >> 1] << endl << endl;
   return 0;
-} 
+}
