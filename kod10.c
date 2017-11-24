@@ -1,7 +1,7 @@
 // Sumy prefiksowe
 // Data: 26.09.2015
 // (C)2015 mgr Jerzy Wa³aszek
-//---------------------------
+//------ostatni kommit
 
 #include <iostream>
 #include <iomanip>
@@ -42,4 +42,4 @@ int main()
          << "] wynosi "  << S[j+1]-S[i] << endl;
   }
   return 0;
-} 
+}
