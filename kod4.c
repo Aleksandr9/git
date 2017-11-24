@@ -1,5 +1,5 @@
 // Najczêstsza wartoœæ
-// Data:   4.05.2008
+// Data:   4.05.3000
 // (C)2012 mgr Jerzy Wa³aszek
 //---------------------------
 
@@ -44,4 +44,4 @@ int main()
 
   cout << endl << maxW << " : " << maxL << endl << endl;
   return 0;
-} 
+}
