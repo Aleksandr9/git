@@ -1,6 +1,6 @@
 // Wyszukiwanie lidera
 // Data:   4.05.2008
-// (C)2012 mgr Jerzy Wa³aszek
+// (C)2012 mgr Jerzy WaÂ³aszek
 //---------------------------
 
 #include <iostream>
@@ -19,7 +19,7 @@ int main()
 
   srand((unsigned)time(NULL));
 
-  // Wype³niamy tablicê
+  // Tu jakaÅ› tablica
 
   W = rand() % 100;
   for(i = 0; i < N; i++)
@@ -47,13 +47,13 @@ int main()
     t = L > N / 2;
   }
 
-  // Wyœwietlamy tablicê
+  // WyÅ“wietlamy tablicÃª
 
   for(i = 0; i < N; i++)
     if(t && (Z[i] == W)) cout << " >" << setw(2) << Z[i];
     else                 cout << setw(4) << Z[i];
 
-  // Wyœwietlamy wyniki
+  // WyÅ“wietlamy wyniki
 
   cout << endl;
   if(t) cout << W << " : " << L << endl;
